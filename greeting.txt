@@ -1,1 +1,2 @@
 Hello World!
+This is a sample greeting file in the dasic-git repository.
