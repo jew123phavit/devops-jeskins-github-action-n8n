@@ -2,3 +2,6 @@ Hello World!
 This is a sample greeting file in the dasic-git repository.
 Have a nice day!
 Nice to meet you!
+
+Hello again!
+It is day two now!
